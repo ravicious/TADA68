@@ -1,5 +1,9 @@
 # TADA68
 
+## Customizing the setup
+
+Each of [the releases](https://github.com/ravicious/TADA68/releases) has a link in the description which points to the given config in the firmware editor. You can then make changes and saved them and create a custom link like that as well – I believe it's done by clicking on the floppy disk icon.
+
 ## Resources
 
 ### [TADA68 Programming Manual](https://cdn.shopify.com/s/files/1/0267/1905/files/TATA68-Manual-1.pdf)
